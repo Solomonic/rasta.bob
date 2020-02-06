@@ -2,6 +2,7 @@
 *.mo
 *.pyc
 *~
+.Python
 .installed.cfg
 .mr.developer.cfg
 bin/
@@ -12,7 +13,8 @@ develop-eggs/
 dist/
 downloads/
 eggs/
+include/
+lib/
 parts/
 var/
 src/rasta/bob/plone_*
-test_answers/plone_*
